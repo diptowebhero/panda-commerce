@@ -1,0 +1,16 @@
+.info-background{
+    background-color: #fceae8;
+}
+.body{
+    overflow-x: hidden;
+}
+.doller{
+    color: #ff136f;
+}
+.button{
+    padding: 8px 30px;
+    border: none;
+    background-color: #ff136f;
+    color: white;
+    border-radius: 10px;
+}
